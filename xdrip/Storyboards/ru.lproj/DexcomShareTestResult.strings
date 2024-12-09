@@ -1,0 +1,9 @@
+"dexcomsharetestresult_verificationsuccessfulalerttitle" = "Проверка прошла успешно";
+"dexcomsharetestresult_verificationsuccessfulalertbody" = "Ваша учетная запись Dexcom Share успешно подтверждена";
+"dexcomsharetestresult_verificationerroralerttitle" = "Ошибка проверки";
+"dexcomsharetestresult_SSO_AuthenticateMaxAttemptsExceeed" = "Превышено максимальное количество попыток входа. Подождите 10 минут и повторите попытку.";
+"dexcomsharetestresult_uploadErrorWarning" = "Ошибка загрузки общего ресурса Dexcom";
+"dexcomsharetestresult_monitored_receiver_sn_doesnotmatch" = "Серийный номер Dexcom Share не соответствует серийному номеру этой учетной записи. Проверьте серийный номер в настройках.";
+"dexcomsharetestresult_monitored_receiver_not_assigned_1" = "Кажется, это ID или серийный номер передатчика";
+"dexcomsharetestresult_monitored_receiver_not_assigned_2" = "не назначен";
+"dexcomsharetestresult_monitored_receiver_not_assigned_3" = "Используйте официальное приложение Dexcom для регистрации передатчика (G5) или общего приемника (G4)\r\n\r\nВозможно, вы просто используете неправильный URL-адрес, проверьте настройку 'Использовать URL-адрес США?'";

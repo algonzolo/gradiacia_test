@@ -1,0 +1,6 @@
+"enter_calibration_value" = "Entrar Valor de Calibración";
+"calibration_title" = "Calibración";
+"calibration_notification_title" = "Calibración";
+"calibration_notification_body" = "Haz click en la notificación para calibrar";
+"singlePointCalibration" = "Estándar";
+"multiPointCalibration" = "Multi-punto";

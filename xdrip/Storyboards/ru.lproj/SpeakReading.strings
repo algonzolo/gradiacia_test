@@ -1,0 +1,14 @@
+"high" = "высокий";
+"low" = "низкий";
+"currentglucose" = "Глюкоза";
+"trendnoncomputable" = "не определен";
+"trenddoubledown" = "резко вниз";
+"trendsingledown" = "значительно вниз";
+"trendfortyfivedown" = "вниз";
+"trendflat" = "ровная";
+"trendfortyfiveup" = "вверх";
+"trendsingleup" = "значительно вверх";
+"trenddoubleup" = "резко вверх";
+"currenttrend" = "Тенденция";
+"deltanoncomputable" = "не вычисляемо";
+"currentdelta" = "Разница";

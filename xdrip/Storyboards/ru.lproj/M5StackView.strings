@@ -1,0 +1,13 @@
+"screenTitle" = "M5Stack";
+"authenticationFailureWarning" = "Аутентификация в M5Stack не удалась, либо установите предварительно настроенный пароль в настройках, либо, если M5Stack не имеет предварительно настроенного пароля, сбросьте M5Stack. M5Stack сейчас отключится. Вы можете сделать новую попытку, нажав ";
+"blePasswordMissingWarning" = "Вам необходимо установить пароль в Настройках";
+"m5StackResetRequiredWarning" = "M5Stack необходимо сбросить, чтобы сгенерировать новый временный пароль. Когда закончите, нажмите ";
+"m5StackSoftWhereHelpCellText" = "Где найти программное обеспечение M5Stack?";
+"m5StickCSoftWhereHelpCellText" = "Где найти программное обеспечение M5StickC?";
+"m5StackSoftWareHelpText" = "Перейти к";
+"m5StackViewscreenTitle" = "M5Stack";
+"m5StickCViewscreenTitle" = "M5StickC";
+"deviceMustBeConnectedToPowerOff" = "M5Stack должен быть подключен, чтобы его можно было отключить";
+"powerOffConfirm" = "Вы действительно хотите выключить M5Stack?";
+"powerOff" = "Питание выключено";
+"connectToWiFi" = "Подключиться к WiFi";
